@@ -105,6 +105,7 @@ body{
     text-align: center;
     margin-bottom: 30px;
     color: var(--white-txt);
+    text-shadow: 4px 4px 8px silver;
 }
 
 .home-content .start-btn{
